@@ -1,0 +1,1 @@
+python train.py -e 15 -en "experiment_name" -lr 0.001

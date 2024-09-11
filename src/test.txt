@@ -1,0 +1,5 @@
+For an image-by-image view of a subset i've picked, including adversarial examples at the end:
+python test.py -mp "../saved_models/train_attempt_v3.pth" -s
+
+For the entire train set:
+python test.py -mp "../saved_models/train_attempt_v3.pth"
